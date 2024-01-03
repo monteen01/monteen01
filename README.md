@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👯 My projects [All Projects](https://github.com/monteen01/web-development-projects)
-
-- 👨‍💻 All of my projects are available at [https://monteen01.github.io/portfolio-monteen/](https://monteen01.github.io/portfolio-monteen/)
+- 👨‍💻 All of my projects are available at (https://portfolio-monteen.vercel.app/)
 
 - 💬 Ask me about **HTML | CSS |js | node.js | jQuery | express | mongodb | SQL | python**
 
